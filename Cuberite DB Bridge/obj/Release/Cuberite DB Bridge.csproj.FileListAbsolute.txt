@@ -1,0 +1,6 @@
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Release\Cuberite DB Bridge.exe.config
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Release\Cuberite DB Bridge.exe
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Release\Cuberite DB Bridge.pdb
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Release\MySql.Data.dll
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\obj\Release\Cuberite DB Bridge.exe
+C:\Users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\obj\Release\Cuberite DB Bridge.pdb

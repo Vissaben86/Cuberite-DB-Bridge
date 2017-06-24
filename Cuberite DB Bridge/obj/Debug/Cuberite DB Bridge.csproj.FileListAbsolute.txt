@@ -1,0 +1,7 @@
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Debug\Cuberite DB Bridge.exe.config
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Debug\Cuberite DB Bridge.exe
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Debug\Cuberite DB Bridge.pdb
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\obj\Debug\Cuberite DB Bridge.csprojResolveAssemblyReference.cache
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\obj\Debug\Cuberite DB Bridge.exe
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\obj\Debug\Cuberite DB Bridge.pdb
+c:\users\josep\onedrive\documents\visual studio 2015\Projects\Cuberite DB Bridge\Cuberite DB Bridge\bin\Debug\MySql.Data.dll
