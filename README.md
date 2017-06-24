@@ -4,7 +4,7 @@ I will update this with a better Example once im further along.
 
 Example usage:
 
-```c#
+```lua
 function Initialize(Plugin)
 	Plugin:SetName("cuberiteDBBridge")
 	Plugin:SetVersion(1)
@@ -26,6 +26,7 @@ local LinkCallbacks =
 	end,
 
 	OnReceivedData = function (a_TCPLink, a_Data)
+		--Must send this in order to make another connection.
 		a_TCPLink:Send("Close Connection")
 	end,
 
